@@ -1,12 +1,5 @@
-class FizzBuzz {
-
-    constructor() {
-        this.maxNumber = 0;
-    }
-
-    render() {
-        return "0"
-    }
+const fizzBuzz = (number) => {
+    return []
 }
 
-module.exports = FizzBuzz;
+module.exports = fizzBuzz;
